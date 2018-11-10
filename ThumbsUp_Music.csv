@@ -1,16 +1,15 @@
 UUID;Artist;Track title;Album;Duration (milliseconds)
 a9fb565e-4f48-3d8f-b1fe-8a17a823926d;-M-;Qui de nous deux;Qui de nous deux;224380
-93340e7b-987b-3e1e-b8fb-aadb72d388d7;3OH!3;Starstrukk (feat. Katy Perry);STARSTRUKK (feat. KATYPERRY);203126
 27863c19-6299-3e6a-92a0-218f8d83a6d4;3OH!3;STARSTRUKK (feat. KATYPERRY);STARSTRUKK (feat. KATYPERRY);203000
-1dea00fd-3d69-31a0-8ee1-c953f2159c3c;5'NIZZA;Свобода;Анплаггед;183507
-e2fbedaa-4cdf-3ee4-b3d6-68bb14ac3fb3;5'NIZZA;Стрела;Анплаггед;128429
-4f72a92c-ee41-3022-99ca-dea515b5f52a;5'NIZZA;Ты кидал;Анплаггед;186711
-96863bde-6337-3592-ab3a-af150e6c3ca8;5'NIZZA;Ушедшим слишком рано;Анплаггед;208561
-71f648aa-9f52-3599-81a1-ac44600a56bb;5'NIZZA;Я с тобой;Анплаггед;250682
-a73bfe2f-b8e0-3acd-973b-d0f4c870d574;5'NIZZA;Немае куль;О5;169613
+1dea00fd-3d69-31a0-8ee1-c953f2159c3c;5'Nizza;Свобода;Анплаггед;183507
+e2fbedaa-4cdf-3ee4-b3d6-68bb14ac3fb3;5'Nizza;Стрела;Анплаггед;128429
+4f72a92c-ee41-3022-99ca-dea515b5f52a;5'Nizza;Ты кидал;Анплаггед;186711
+96863bde-6337-3592-ab3a-af150e6c3ca8;5'Nizza;Ушедшим слишком рано;Анплаггед;208561
+a73bfe2f-b8e0-3acd-973b-d0f4c870d574;5'Nizza;Немае куль;О5;169613
 b98811b8-1acc-3254-8e20-0eee08fac09c;5’Nizza;Весна;Анплаггед;253857
 d5712602-506a-3afb-a32f-8483d98c2452;5’Nizza;Нева;Анплаггед;291422
 6c14ac55-5cdc-3091-b832-4a2008fd250d;5’Nizza;Солдат;Анплаггед;192653
+71f648aa-9f52-3599-81a1-ac44600a56bb;5’Nizza;Я с тобой;Анплаггед;250682
 7d4f7c80-7a8d-36df-8b13-435993f76faf;8 Bit Universe;Feel Good Inc (8 Bit Version);8 Bit Chips and Dip;221000
 4fe31a7c-cfe2-3a1b-9fd2-fd15346e2982;a-ha;Take On Me;Hunting High And Low (Deluxe Edition);228000
 dc49f811-59d2-3755-84a2-e8a036c02d52;Alain Souchon;Foule sentimentale;C'est Deja Ca;324908
@@ -36,8 +35,8 @@ f06a6eb9-4e04-34ff-bcd7-3ec65a57fb48;Amorphis;House of Sleep;Eclipse;255000
 700f0aaf-59a7-38fc-b832-7922f6e4b6aa;Anouk;It Wasn't Me;Urban Solitude;267467
 48f62a74-b9da-3c5d-8943-705d0f92e41f;Anouk;Make It Rain;Who's Your Momma;241841
 a6438946-d8c9-3453-b8ea-14ec50a117d0;Anouk;Might As Well;Who's Your Momma;189544
-ffac1db9-ab7e-3363-841b-438cb0b06840;Apocalyptica;Path;Cult;185354
-937fdec7-97c9-33a4-ac74-dec936b3c145;Apocalyptica;Romance;Cult;206310
+f38b97ba-04cf-30e8-abec-58b93327403e;Apocalyptica;Path;Cult;186000
+440b2f59-8140-3b59-a272-2d300ac4f9f8;Apocalyptica;Romance;Cult;207000
 38a6da21-b13b-3a89-bfdb-96aef741648e;Apocalyptica;Until It Sleeps;Cult;194000
 9f54c693-3117-34f6-98f2-2cd15d0974d5;Apocalyptica;Nothing Else Matters;Inquisition Symphony;285544
 84a01cc3-afff-35a9-99bf-84ec7f14138d;Arch Enemy;Time Is Black [Instrumental];War Eternal [Limited Artbook  Edition] : CD 3 Instrumental Play-Through;326269
@@ -54,8 +53,6 @@ b7e582b4-f8b5-32a3-92ad-bcc634aaf3e6;Barney Kessel;Little Star;It's A Blue World
 eb79675d-fa23-3ab8-93b2-fb16b8ccad4b;Barney Kessel;Little Star;Meets Barney Kessel;275354
 8f2feddc-874d-3621-b9c2-f3e3f87bfca6;Barney Kessel;Autumn Leaves;Swinging Easy!;296095
 9f9874e8-2ec1-3068-bac1-8414713b04df;Bee Gees;You Should Be Dancing;The Ultimate (Japan WPCR-13706) (CD 1);256466
-1fc61c71-b165-3596-b8c1-fde361079938;Ben Prunty;MilkyWay (Battle);FTL;159692
-f7939ab9-c3d9-3638-9b26-be72a1bbf13f;Ben Prunty;MilkyWay (Explore);FTL;159692
 8244feea-c213-3603-9b65-a5b224465e8c;Beth Gibbons & Rustin Man;Tom The Model;Out Of Season;220792
 85df539b-42e0-32f5-9ae2-c3dcc4d3dd32;Biffy Clyro;Bubbles;Only Revolutions;301000
 330c4677-c94c-3394-a2e2-ec7dd31b28bf;Black Attack;Bang Bang;On The Edge;237900
@@ -178,7 +175,6 @@ d54028ab-efd1-39f5-b93e-289e98428478;Disturbed;Never Wrong;Immortalized (Deluxe 
 cec4286f-0ece-3363-95fc-b43728e3bb58;Disturbed;Tyrant;Immortalized (Deluxe Edition);229067
 a242deea-432c-30cf-b489-bbcac90fb4a6;Disturbed;Land Of Confusion;Ten Thousand Fists;291787
 b5f8b607-3b4f-36de-9d96-46934196bb9b;Disturbed;Stricken;Ten Thousand Fists;246935
-a399c838-58ea-3c33-9372-203d38d4a0ef;Dommin;Closure;Love Is Gone (Special Edition);255008
 3613987e-79c7-36a8-8afa-3933ec06f6be;Dommin;Closure;Love Is Gone;258000
 dd5e2986-4826-34db-b0c8-ead87b132d2d;Dream Theater;The Silent Man;Awake;227733
 da58269a-5cf6-36f2-9912-8ce68d6352ad;Dream Theater;Hollow Years;Falling Into Infinity;353903
@@ -222,6 +218,7 @@ b2784dd6-7809-361d-a68c-a6a3b2feed35;Eternal Tears of Sorrow;Midnight Bird;Child
 3ec4527b-60d1-3593-a22c-616813b30bab;Europe;The Final Countdown;Play: Classic Rock;238730
 1f13344e-8e99-3504-9883-2f188ece390a;Eurythmics;Sweet Dreams (Are Made of This) (Remastered);Sweet Dreams (Are Made Of This);216000
 1a27783b-e32d-3f9e-9dfa-012e71f8f0d6;Evanescence;Imperfection;Synthesis;262000
+8f5b73d1-dadf-3441-b288-3e57dbc4b6b0;EverEve;Fields of Ashes;Stormbirds;360000
 79f167ac-26f2-336f-932f-75d97ea9e526;Fall Out Boy;Beat It (Studio Version) (feat. John Mayer);Beat It;226000
 a00669d2-b238-369e-a857-29fa34094850;Fall Out Boy;Dance, Dance;From Under The Cork Tree;180000
 2278ce7a-8b3a-321f-b273-6660bc1f8feb;Fall Out Boy;The Phoenix;Save Rock And Roll;245000
@@ -246,7 +243,6 @@ e64fd412-8683-3a71-9069-8439f0b11a5d;Funkbrainer;Memoire Selective (Original Mix
 ddf786ef-d6d4-33aa-b8e1-038dec9aeed7;Gnarls Barkley;Crazy;St. Elsewhere;177000
 afb76c18-5dfa-3869-b852-59d57bf4724e;Goran Bregovic;Tango;Le Temps Des Gitans;235622
 19371c23-0c62-336e-8097-ee0201a3d631;Gorillaz;Feel Good Inc;Demon Days;222000
-40720c82-5527-3e0e-b413-155f623637aa;Gorillaz;Feel Good Inc.;Demon Days;220298
 04bda6e7-d8f5-3bca-b196-b52249e21f2f;Gorillaz;Clint Eastwood;Gorillaz;270288
 a16a63d2-66cb-3bb8-8740-8313c17c4860;Gossip;Careless Whisper;;214256
 58b5977c-09a4-3453-9f77-f89336a7dc94;Gossip;Heavy Cross;Music For Men;242000
@@ -321,8 +317,6 @@ b96770e0-34b3-3873-ad31-738476bc9722;Jonny Lang;A Quitter Never Wins;Lie To Me;3
 621c670b-cffd-3e4f-97e7-88ba7c44878c;Jonny Lang;Second Guessing;Wander This World;308776
 52d2c62b-80d5-386b-8fac-e22a9ca08a23;Jonny Lang;Still Rainin';Wander This World;288340
 e5102fb4-a07f-3f1a-b928-fa7d460b1993;Judas Priest;Breaking The Law;British Steel (Remastered);153859
-3df4ce19-71ef-3242-a657-6d23e0fbe37a;Judas Priest;Breaking The Law;Metal Works '73-'93;153859
-03913460-8d47-3027-92e5-ccc6a2ce9d01;Judas Priest;Night Crawler;Metal Works '73-'93;346328
 7a5ec51e-9ba2-3cb1-9f41-294fb5bb38fa;Judas Priest;Between The Hammer and The Anvil;Painkiller (Remastered);289044
 5f930386-1461-3329-941a-7e0414b5d691;Judas Priest;Hell Patrol;Painkiller (Remastered);216607
 0b321536-3fae-3716-a946-de29094bf73a;Judas Priest;Night Crawler;Painkiller (Remastered);344502
@@ -377,6 +371,7 @@ d7c8bf8c-a926-3d96-a9ef-d3c544c51e75;Megadeth;The Scorpion;The System Has Failed
 bc80a1a3-1435-36e8-8076-73205a244642;Metallica;Fuel;Reload;268502
 a997725c-b82a-3f9f-b670-eb236d3a212c;Metallica;The Memory Remains;Reload;279170
 456fd574-25f1-31ce-99f4-6d8fd12dec75;Metallica;The Unforgiven II;Reload;396434
+2f86908c-eec4-3498-bac7-f4b3e078b9d9;Metallica;The Unforgiven II;Reload;396000
 97301caf-28bd-30a6-9090-7572a206d678;Metallica;The Call Of Ktulu;Ride The Lightning;535222
 6834c3c6-1536-3ae8-a1d4-95fdfe1ee093;Michael Jackson;Beat It;King Of Pop: Limited Edition Australian 50th Anniversary Edition [Disc 1];259064
 32d24e2c-06c0-3f74-bd7c-e71150f5fb7c;Michael Jackson;Give In To Me;King Of Pop: Limited Edition Australian 50th Anniversary Edition [Disc 2];329108
@@ -390,6 +385,7 @@ e183e6d4-45b8-3bdc-a8b8-aff50c07aefe;Moonspell;Dekadance;Sin / Pecado;349000
 ec44f233-a85f-3535-8502-ac3ce00881c0;Morcheeba;World Looking In;Fragments Of Freedom;246646
 178adb65-4b82-3bbb-9cd1-c9c712dc048f;Morcheeba;Rome Wasn't Built In A Day;Rome Wasn't Built In A Day (Single);214750
 09e9a640-a56b-3fa8-9855-72635d8a6121;Mors Principium Est;Cleansing rain;Liberation = termination;260000
+645ab720-9f25-346d-8ebc-2e7455a6f6eb;Mors Principium Est;Forgotten;Liberation = termination;103000
 641980fd-63fc-30bb-91df-4992ad1660ef;Mortal Love;All The Beauty;Best Of The Trilogy ... All The Beauty I Have Lost Forever Will Be Gone;373000
 860a6d02-05ff-3f74-8a4f-8d449bce8dee;Mr. President;Coco Jambo;;342021
 e7115ef6-c94b-3626-b5ea-194ed0f85259;Muse;Dead Inside;Drones;262000
@@ -404,6 +400,7 @@ ec0ed01a-22fa-3b20-be72-2eaf16d91a3e;Nightwish;Last of the Wilds;Dark Passion Pl
 0e344663-c6d7-341e-abbc-1dbdcbc12351;Nightwish;She Is My Sin;Wishmaster;286249
 2bbe9104-e327-3fdb-89ba-304bbab19db5;Noize MC;Выдыхай;The Greatest Hits Vol.1;188396
 9b3b4bab-cb34-3b5d-8327-a359ab09025d;Noize MC;На Марсе классно;Последний Альбом;254000
+52fd01b4-131c-3c77-9fff-2aa217f7ae25;Noize MC;Следы на спине;Следы на спине;183000
 d1266398-85ac-38c7-a7e2-658545f3b910;Noize MC;С нами (Орфей и Эвридика);Хипхопера: Орфей & Эвридика;197000
 ffc518ba-28c7-3f98-ad4c-8da180956e4b;Noumena;Play Dead;Death Walks with Me;212000
 73f67b44-6e7f-36f7-afeb-2e95907d33e5;Ocean Jet;Breaking the Stones;The Word Never Dropped;206000
@@ -508,7 +505,6 @@ cbbe3a05-c50c-3ea5-a2b6-e6062a83e80a;Stakka Bo;Here We Go;Supermarket;237400
 70ea2b64-3107-3b07-a35a-c0bab99ea6bb;Starsailor;Four To The Floor (Radio Edit);Four To The Floor;252174
 616580bf-1412-31e6-a0d4-5447ebb154bb;Starsailor;Four To The Floor;Good Souls: The Greatest Hits;231000
 e561ab6a-1764-3d47-9e83-b1456ade8bce;Stereophonics;Dakota;Decade In The Sun - Best Of Stereophonics;296088
-207d3263-a2ea-3f43-a0c8-828fa02d1de2;Stereophonics;Maybe Tomorrow;Maybe Tomorrow (Single);273107
 0768f03b-fdba-3c00-aace-7cb90d3049e9;Stereophonics;Maybe Tomorrow;You Gotta Go There To Come Back;272000
 28af9d79-436f-3564-a461-9616c918d655;Steve Vai;Tender Surrender;Alien Love Secrets;301398
 54777a9d-3049-335b-a0ea-1f18dfcdb30d;Steve Vai;Dyin' Day;Fire Garden;269085
@@ -531,7 +527,6 @@ e681897c-dca7-3614-bf06-7ad7979f305a;Subway to Sally;Die Jagd beginnt;Kreuzfeuer
 f18b7e2a-c217-3623-8901-e31828f41cae;Survivor;Eye of the Tiger;Eye Of The Tiger;243000
 423ee39e-1494-377f-8e21-4fb64a8658ee;Tab Benoit;Nothing Takes The Place Of You;Medicine;241000
 9a719c23-2365-30f0-a552-c40eaa58adb6;Tarja Turunen;Until My Last Breath;What Lies Beneath;264000
-37b8fcd6-911a-37db-b2aa-8272d2ebd7fd;Texas;Summer Son;The Greatest Hits;242677
 465f5af7-0c90-31dc-bcaf-240755bbe676;Texas;Summer Son;The Hush;244000
 3f18c701-771a-3d4a-8d58-d71223122067;The 69 Eyes;Ghost;Angels;257459
 16fa1a07-1b43-3324-87a0-da25eb1cea7f;The 69 Eyes;Some Kind Of Magick;Back In Blood;219115
@@ -555,9 +550,7 @@ c175e028-9107-3675-97de-9d301e229892;The Flashbulb;Solar Motel;Nothing Is Real;2
 592d96d7-99e2-37c8-85f9-4b2c4a331b03;The Flashbulb;Autumn Leaves And A Bath Tub;Opus at the End of Everything;109373
 b8025552-edea-3266-ae7a-a8dea76b27d5;The Hardkiss;Rain;Perfection Is a Lie;207000
 e4bfe662-8cd0-34ce-b661-f3e4d1ae19ee;The Hardkiss;Stones;Stones and Honey;227000
-759e2b5b-2564-34ea-818f-5c8d8085192a;The Killers;Smile Like You Mean It;Hot Fuss (Deluxe Version);235021
 9b9443cf-544f-33d4-9ee0-c242cf144868;The Killers;Smile Like You Mean It;Hot Fuss;235000
-539518e5-959a-349d-ae9a-8cc13e06604e;The Killers;Somebody Told Me;Hot Fuss;196300
 cb6713b0-fc29-3d0e-bc5c-5ae73b6cfce3;The Killers;Somebody Told Me;Hot Fuss;197000
 aa272c96-5691-3123-b292-2c620b47cfef;The Kovenant;Mannequin;Animatronic;300000
 7d75c865-82af-36c0-89c0-123d7063dd68;The Offspring;Dirty Magic;Days Go By;240000
@@ -587,7 +580,6 @@ d111844d-9e26-394a-b8f9-bacdad39b82f;Tiamat;Best Friend Money Can Buy;Skeleton S
 b21b270d-0297-32b7-b72b-7e781daea92a;Tiamat;Church of Tiamat;Skeleton Skeletron;292000
 a8bd324e-9b63-34ec-bd61-6b2728a6982a;Tom Waits;Ice Cream Man;Closing Time;185676
 4a80776f-6b12-3283-bc78-102436aedbea;Tomas Dvorak;Clockwise Operetta;Machinarium;232596
-24d1fb17-791e-382a-97c7-ffbd5bfc5b0e;Travis;Sing;The Invisible Band;228804
 c5f23b16-0372-3980-885f-158465986891;Travis;Sing;The Invisible Band;228000
 6798de2f-55b0-303b-9a3c-9ebd04f66151;Triangle Sun;Harvest;Born In The Silence;246619
 419e81ee-4885-32fe-90ba-c74068cd5bac;Triangle Sun;She Doesn't Care;Born In The Silence;324150
@@ -608,13 +600,11 @@ e484905a-cdd6-3bee-afd9-41cdd2563518;Tristania;Angellore;Widow's Weeds;436659
 c88b91c9-475a-3698-86b8-7a9fa07e7a4f;Tristania;Tender Trip On Earth;World Of Glass;318482
 2d1198ec-5bb9-379a-8b34-39efd83fd647;Twenty One Pilots;Stressed Out;Blurryface;202000
 99313dab-af8f-3b58-b350-fbc2ebafdca6;U2;The Hands That Built America (Theme From 'Gangs f New York');The Best Of 1990-2000;298945
-50fe431f-6121-3894-b380-c17c380238bf;Uma2rmaH;В пролесье;В этом городе все сумасшедшие;315000
 b441fc57-70ce-384e-bdb8-eca0453199b4;Uma2rmaH;В пролесье;Ночной дозор;307252
 bf72413e-767e-3ea6-853b-f0989fcba8f2;Uma2rmaH;Зачем?;Ночной дозор;309342
 fca4c1ad-e47c-329c-bc21-e55e85e70ef0;Uma2rmaH;Раненный в висок;Ночной дозор;286354
 a1e957c4-6aaf-384f-92ab-d0e718d9bc4f;Uma2rmaH;Ты далеко;Ночной дозор;206942
 b439c41b-f1b7-3b9a-8945-7801df39c935;Uma2rmaH;Ты ушла;Ночной дозор;248737
-4c29a331-5539-3277-9296-8ec707807aa8;Us3;Cantaloop (Flip Fantasia);Hand On The Torch;279379
 f7342161-fff4-3fa1-81a8-0c0abb1a7a7b;Us3;Cantaloop (Flip Fantasia) (feat. Rahsaan & Gerard Presencer);Hand On The Torch;279000
 b32d5340-bc10-3064-9a73-740d9614605f;Van Did & Lox D;Elena (Teho Remix);Visceral 036;471000
 057b5e35-dfeb-3315-a89f-35a3028d3134;Van Halen;Ain't Talkin' 'Bout Love;Van Halen (Remastered);228436
@@ -657,6 +647,8 @@ ac94b7bd-0055-3d08-a616-1870970469b4;АнимациЯ;Родина;Продан�
 0bb72928-6a7f-317a-b369-499b9dc53957;Ария;Дьявольский зной;Генератор зла;293561
 364f8509-ac97-32b2-b876-8a3cc02bc5cb;Ария;На службе силы зла;Герой асфальта;430833
 acf9bd25-4d00-3239-aaa2-266a59a5dbb9;Ария;Тебе Дадут Знак;Химера;533494
+f190ec66-69ce-3215-b2e6-6341ed2b2466;Бен Прунти;MilkyWay (Battle);Ftl: Faster Than Light - Original Soundtrack;160000
+a634e37e-c3b3-37aa-8357-383c9a33ba46;Бен Прунти;MilkyWay (Explore);Ftl: Faster Than Light - Original Soundtrack;160000
 4a309430-f227-378a-8243-f844d42c0ec4;Би-2;Вечная призрачная встречная;OST ""О чем говорят мужчины"";311000
 414dc676-386d-3763-907b-c39e3d310efc;Би-2;Черный день;OST ""О чем говорят мужчины"";223000
 878bc400-e5c7-333f-a73c-fb4ebd303aaa;Би-2;Ярмарка невест;OST ""О чем говорят мужчины"";326000
@@ -680,6 +672,7 @@ b383a985-ece4-3fcf-b51c-0f3070867d4a;Василий Уриевский;Не су
 141f9f7e-2178-3b49-989f-4b02163a0cb8;Василий Уриевский;Песня ни о чём;Тыщ-ты-тыщ;246000
 aefb866e-0f9d-3327-84e4-cdc52b1972d8;Василий Уриевский;Самый лучший начальник;Тыщ-ты-тыщ;202000
 0d32c4cd-6e48-37c5-88aa-261752d8e408;Гарик Сукачёв;Дорожная;Реки;314000
+d3750234-3daa-30f9-bf95-55c58d77157e;Джо Сатриани;If I Could Fly;Is There Love In Space?;391000
 3e692146-a42b-36b0-8356-5b6e9c8a6c26;Джози Чарлвуд;Feel Good Inc. (Loopstation Cover);Pieces of Me - Live Album;325000
 b385be3e-9a56-3afd-a946-a2116523862b;Джоэл Нильсен;End Credits Part 2;Black Mesa Soundtrack;116000
 06c42837-a440-3113-9e3b-88e68c700b0e;Дэвид Хаусден;A Time for Change;Thomas Was Alone (Original Soundtrack);218000
@@ -780,6 +773,8 @@ e7e74034-697f-3b3e-9353-c2fef08e7a47;Пикник;А может быть и не
 e3e73eeb-3152-3ff3-8a47-5c3ded101872;Пилар;Веснушки;Альбом;171548
 31bc611e-ffe3-3adf-9aa2-393744648bb1;Пилар;Сердце;Альбом;288756
 d0c768e3-7169-3462-808f-e39f8a809cec;Пилар;Питер Пэн;;185640
+47bab572-c581-323d-8efe-794fce72bc9e;Пицца;Оружие;Кухня;207000
+8406673c-b707-3f45-a19f-7d3d59551c2f;Пицца;Фары;Кухня;286000
 20028a8b-4617-3d43-a9b8-7c0d151303ef;Разнотравие;Грешник;Каторга;274207
 01f7ea84-c4c9-3e07-ab35-597dd4698e2c;Разнотравие;Домовинка;Каторга;270785
 4f274f28-69fe-3a52-b9db-25a88c573485;Разнотравие;Каторга;Каторга;231340
