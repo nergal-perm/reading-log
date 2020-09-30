@@ -280,3 +280,4 @@
 20190324 - Момо, автор Михаэль Энде [197:5]+
 20190414 - The One Minute To-Do List, автор Michael Linenberger [127:6]+#
 20200913 - Финиш, автор Джон Эйкафф [0:4]@#
+20200930 - The Mikado Method, автор Ola Ellnestam; Daniel Brolund [215:7]+#
