@@ -384,3 +384,7 @@
    разделена на много микросервисов?", "Как определить узкие места в разработке
    и расставить приоритеты при рефакторинге?".
    <https://understandlegacycode.com/blog/key-points-of-software-design-x-rays/>
+1. _The Legacy Code Programmer's Toolbox_, автор Jonathan Boccara. Обещают
+   показать и рассказать, как быть эффективным, создавать ценность и получать
+   удовлетворение от работы с унаследованным кодом.
+   <https://understandlegacycode.com/blog/key-points-of-legacy-code-programmer-toolbox/>
