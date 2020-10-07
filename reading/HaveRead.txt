@@ -31,8 +31,8 @@
 20150205 - Чашка кофе по-турецки, автор Александр Шамес [12:1]+
 20150210 - Отдохновение миссис Мэшем, автор Теренс Хенбери Уайт [222:8]+*
 20150210 - Все тенали бороговы, автор Генри Каттнер [26:6]+
-20150219 - How to Make a Complete Map of Every Thought You Think, автор Lion Kimbro [131:6]+^#
-20150227 - Harry Potter and the Prizoner of Azkaban, автор Джоан Роулинг [0:7]@
+20150219 - How to Make a Complete Map of Every Thought You Think, author Lion Kimbro [131:6]+^#
+20150227 - Harry Potter and the Prizoner of Azkaban, author Джоан Роулинг [0:7]@
 20150304 - Вселенная, Жизнь, Разум, автор Иосиф Шкловский [442:8]+*#
 20150305 - Половинки, автор Вадим Панов [22:4]+
 20150307 - Оркестр Молчал, И Флаги Не Взлетали, автор Роберт Хайнлайн [6:7]+
@@ -278,6 +278,7 @@
 20190201 - Коммандос Четвертого Рейха, автор Джерри Эхерн [131:2]+
 20190315 - Дорога, автор Кормак Маккарти [150:6]+
 20190324 - Момо, автор Михаэль Энде [197:5]+
-20190414 - The One Minute To-Do List, автор Michael Linenberger [127:6]+#
+20190414 - The One Minute To-Do List, author Michael Linenberger [127:6]+#
 20200913 - Финиш, автор Джон Эйкафф [0:4]@#
-20200930 - The Mikado Method, автор Ola Ellnestam; Daniel Brolund [215:7]+#
+20200930 - The Mikado Method, author Ola Ellnestam; Daniel Brolund [215:7]+#
+20201007 - How to Take Smart Notes, author Ahrens, Sonke [178:8]+#
