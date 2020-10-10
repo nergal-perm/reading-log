@@ -281,4 +281,5 @@
 20190414 - The One Minute To-Do List, author Michael Linenberger [127:6]+#
 20200913 - Финиш, автор Джон Эйкафф [0:4]@#
 20200930 - The Mikado Method, author Ola Ellnestam; Daniel Brolund [215:7]+#
-20201007 - How to Take Smart Notes, author Ahrens, Sonke [178:8]+#
+20201007 - How to Take Smart Notes, author Sonke Ahrens [178:8]+#
+20201010 - Extreme Programming Explained, author Kent Beck [136:8]+# 
