@@ -283,3 +283,4 @@
 20200930 - The Mikado Method, author Ola Ellnestam; Daniel Brolund [215:7]+#
 20201007 - How to Take Smart Notes, author Sonke Ahrens [178:8]+#
 20201010 - Extreme Programming Explained, author Kent Beck [136:8]+# 
+20201011 - ATDD - разработка через приемочные тесты, автор Маркус Гэртнер [232:5]+#
