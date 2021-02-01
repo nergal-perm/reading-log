@@ -289,3 +289,4 @@
 20201206 - Резец небесный, автор Урсула Ле Гуин [250:6]+
 20201227 - Призраки дома на холме, автор Ширли Джексон [187:7]+
 20210129 - Building Maintainable Software, автор Joost Visser [153:6]+#
+20210201 - Name, Construct & Structure, автор Khalil Stemmler [32:3]+#
