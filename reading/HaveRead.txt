@@ -291,3 +291,4 @@
 20210129 - Building Maintainable Software, автор Joost Visser [153:6]+#
 20210201 - Name, Construct & Structure, автор Khalil Stemmler [32:3]+#
 20210201 - Мы, автор Евгений Замятин [212:7]+
+20210206 - Вторая жизнь Уве, автор Фредерик Бакман [319:10]+*
