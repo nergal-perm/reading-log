@@ -1,5 +1,6 @@
 1. _Пятая дисциплина_, автор Сенге, Питер
     - [доклад Lorraine Steyn](https://youtu.be/TZRh3n-PTE4)
+    - [Практика Xtrem Reading](https://www.infoq.com/articles/learning-xtrem-reading/)
     - Компетенция "Саморазвитие"
     - Компетенция "Системное мышление"
     - Компетенция "Стратегическое мышление"
