@@ -37,6 +37,9 @@
 1. _Утопия для реалистов_, автор Брегман, Рутгер
     - <https://theoryandpractice.ru/posts/16439-nekogda-otdykhat-pochemu-v-mire-stanovitsya-vse-bolshe-bespoleznoy-raboty>
     - Скачивал когда-то давно
+1. _The Principles of Product Development Flow_, автор Donald Reinertsen. Дает
+   кругозорное представление о современном операционном менеджменте
+   - Курс "Образование для Образованных 2021"
 1. _How to Have a Good Day_, автор Caroline Webb. Рекомендуют как одну из самых
    внятных и четких книг по самоменеджменту.
     - <https://www.artofmanliness.com/character/behavior/podcast-214-how-to-have-a-good-day-every-day/>
